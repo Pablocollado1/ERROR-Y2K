@@ -11,7 +11,7 @@
 3. __Solucion de Y2K__
 
     El 1 de enero de 2000, el cambio de milenio finalmente llegó, y en gran parte, el problema del Y2K se resolvió con éxito.
-    El impacto fue mucho menos Fuerte de lo que se temía inicialmente. El Y2K sirvió como una advertencia sobre la importancia de la planificación y la gestión de riesgos en el campo de la informática y la tecnología. 
+    El impacto fue mucho menos Fuerte de lo que se temía inicialmente. El Y2K sirvió como una advertencia sobre la importancia de la planificación y la gestión de riesgos de la informática y la tecnología. 
 
     ![U+200E](https://github.com/Pablocollado1/ERROR-Y2K/blob/main/Captura%20de%20pantalla%202023-10-06%20154453.png "IMAGEN")
 
